@@ -1,0 +1,65 @@
+a{
+	margin: 90px;
+    font-size: xx-large;
+    font-style: italic;
+    color: #fc0707; 
+    text-decoration: inherit; 
+}
+body{
+    background-color: rgba(200, 250, 250, 0.596);
+    margin: 20px;
+}
+img{
+    padding-left: 100px;
+    width: 450px;
+    height: 450px;
+	margin: 60px;
+	border-radius: 10px;
+	float: left;
+}
+
+hr{
+	width: 90%;
+}
+.d{
+    margin: 60px;
+    font-size: 55px;
+    color: rgb(53, 80, 4);
+}
+h1{
+    margin: 20px;
+}
+.footer{
+    margin-right: 290px;
+    color: rgb(150, 49, 6);
+}
+.h{
+    margin: 30px;
+}
+h4{
+    margin-right: 90px;
+    font-size: 37px;
+}
+.h4{
+    margin-right: 90px;
+    font-size: 45px;
+}
+label{
+    margin-right: 90px;
+    font-size: 32px;
+}
+input{
+    margin-right: 60px;
+    font-size: 32px;
+}
+.payam{
+    width: 700px;
+    height: 200px;
+}
+.submit{
+    margin-right: 600px;
+    font-size: 30px;
+}
+
+
+
